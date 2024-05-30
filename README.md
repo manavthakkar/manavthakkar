@@ -28,5 +28,5 @@
 
 - Join me for some amazing projects. It's never too late to join the party!
 
-Checkout my portfolio [here](manavthakkar.github.io)
+Checkout my portfolio [here](https://manavthakkar.github.io/)
 
