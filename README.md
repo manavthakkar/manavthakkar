@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! 👋 I'm Manav
 
-<!--
-**manavthakkar/manavthakkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Late to GitHub but fully aboard! Join me for future projects!
 
-Here are some ideas to get you started:
+🤖 Robotics Enthusiast | 🌟 Wanderer | 📚 Lifelong Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working on:
+
+- ConstructBot : A six axis brick laying robotic arm
+- MoMo: An open source mobile robotic platform
+
+### 🌱 Currently learning:
+
+- Web Development
+- Omniverse Isaac Sim 
+
+### 💬 Ask me about:
+
+- Robotics
+- Cool looking GUIs
+
+### 📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/manavt2000/)
+- [Email](mailto:manavt2000@gmail.com)
+
+### 🎉 Let's collaborate!
+
+- Join me for some amazing projects. It's never too late to join the party!
+
+Checkout my portfolio [here](manavthakkar.github.io)
+
