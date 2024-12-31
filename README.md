@@ -1,32 +1,19 @@
-# Hi there! 👋 I'm Manav
+# 👋 Hi, I’m Manav!
 
-🚀 Late to GitHub but fully aboard! Join me for future projects!
 
-🤖 Robotics Enthusiast | 🌟 Wanderer | 📚 Lifelong Learner
+I’m a Robotics and AI enthusiast passionate about building and coding things that move. With a background in Mechanical Engineering and a master’s in Mechatronics, I enjoy working on mobile robotics, and exploring the intersection of robotics and AI.
 
-### 🔭 Currently working on:
+## 🔧 Tech Stack
 
-- ConstructBot : A six axis brick laying robotic arm
-- MoMo: An open source mobile robotic platform
+- **Programming**: Python, C++, Java, ROS
+- **Prototyping**: CAD, 3D Printing
+- **Interests**: Robotics, Computer Vision, Machine Learning
 
-### 🌱 Currently learning:
+## 🎯 Goals
 
-- Web Development
-- Omniverse Isaac Sim 
+I aim to solve real-world problems by bridging the physical and digital worlds and contributing to the transformation of society through robotics and AI.
 
-### 💬 Ask me about:
-
-- Robotics
-- Cool looking GUIs
-
-### 📫 How to reach me:
+## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/manavt2000/)
 - [Email](mailto:manavt2000@gmail.com)
-
-### 🎉 Let's collaborate!
-
-- Join me for some amazing projects. It's never too late to join the party!
-
-Checkout my portfolio [here](https://manavthakkar.github.io/)
-
